@@ -27,12 +27,12 @@ Task para continuar aprimoramento dos cursos:
 - [ ] Estudar o Bootcamp de Python e de Java
 - [ ] Continuar a estudar Java
 - [ ] Assistir os cursos
-- [ ] Faça os desafios de código e projetos.
+- [ ] Fazer os desafios de código e projetos.
 - [ ] Revisar sempre as matérias
 - [ ] Done!
 
 <-- Lista -->
 1. Curso 1
-   1. Subitem 
+   1. Subitem  
 2. Curso 2
 3. Curso 3
