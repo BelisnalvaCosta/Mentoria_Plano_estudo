@@ -18,15 +18,21 @@ _*Meta de Bootcamp e cursos*_
 4. Introdução a Orientada a objeto com Java - [acesse o curso](https://web.dio.me/course/praticando-orientacao-a-objetos-com-java/learning/bd32419b-9081-4426-ad13-e6d380e93443)
 5. Desenvolvimento básico em Java - [acesse o curso](https://web.dio.me/course/desenvolvimento-basico-em-java/learning/38d441ef-3c29-4ca4-9047-178603a8f656)
 
-Meta para janeiro
+#Meta para janeiro
 - [x] Fazer a tarefa Bootc. 1
 - [x] Fazer a tarefa Bootc. 2
 - [ ] Fazer a tarefa dos cursos 3
 
-Task para continuar aprimoramento dos cursos:
+#Task para continuar aprimoramento dos cursos:
 - [x] Estudar o Bootcamp de Python e de Java
 - [x] Continuar a estudar Java
 - [x] Assistir os cursos
 - [ ] Fazer os desafios de código e projetos.
 - [ ] Revisar sempre as matérias
 - [ ] Done! :🚀👩‍💻
+
+<p>
+<a href="https://github.com/anuraghazra/github-readme-starts">
+ <img align="center" src="https://github-readme-starts.vercel.app/api/top-langs/?"
+username=BelisnalvaCosta&show_icons=true&layout=compact&theme=dark" /></a> 
+</p>
