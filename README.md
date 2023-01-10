@@ -10,22 +10,26 @@ cursos aqui listados são gratuitos e fazem parte da plataforma DIO.me.
 <!-- Minhas palavras -->
 ## Cursos ordenados por nível de dificuldade
 
-_*Meta de cursos*_
-- Estrutura de dados em Java - [acesse o curso](https://web.dio.me/course/estrutura-de-dados-em-java-introducao/learning/11e9cb23-9b15-4a01-b5bc-80c5d27b2c58)
-- Introdução a Orientada a objeto com Java - [acesse o curso](https://web.dio.me/course/praticando-orientacao-a-objetos-com-java/learning/bd32419b-9081-4426-ad13-e6d380e93443)
-- Desenvolvimento básico em Java - [acesse o curso](https://web.dio.me/course/desenvolvimento-basico-em-java/learning/38d441ef-3c29-4ca4-9047-178603a8f656)
+_*Meta de Bootcamp e cursos*_
+1. Bootcamp Geração Tech Unimed - Python[acesse o curso](https://web.dio.me/track/geracao-tech-unimed-bh-ciencia-de-dados)
+2. Estrutura de dados em Java - [acesse o curso](https://web.dio.me/course/estrutura-de-dados-em-java-introducao/learning/11e9cb23-9b15-4a01-b5bc-80c5d27b2c58)
+3. Introdução a Orientada a objeto com Java - [acesse o curso](https://web.dio.me/course/praticando-orientacao-a-objetos-com-java/learning/bd32419b-9081-4426-ad13-e6d380e93443)
+4. Desenvolvimento básico em Java - [acesse o curso](https://web.dio.me/course/desenvolvimento-basico-em-java/learning/38d441ef-3c29-4ca4-9047-178603a8f656)
 
 Meta para janeiro
-- [x] Fazer a tarefa 1
-- [ ] Fazer a tarefa 2
+- [x] Fazer a tarefa Bootc 1
+- [ ] Fazer a tarefa Cursos 2
 
 Task para continuar aprimoramento dos cursos:
-- [ ] Começar a estudar Java
+- [ ] Estudar o Bootcamp de Python e de Java
+- [ ] Continuar a estudar Java
 - [ ] Assistir os cursos
-- [ ] Faça os desafios de código.
+- [ ] Faça os desafios de código e projetos.
+- [ ] Revisar sempre as matérias
+- [ ] Done!
 
 <-- Lista -->
 1. Curso 1
-   1. Subitem
+   1. Subitem 
 2. Curso 2
 3. Curso 3
