@@ -29,13 +29,13 @@ _*Meta de Bootcamp e cursos*_
 - [x] Assistir os cursos
 - [ ] Fazer os desafios de código e projetos.
 - [ ] Revisar sempre as matérias
-- [ ] Done! :🚀👩‍💻
+- [ ] Done! :🚀👩‍💻 (:tada:)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BelisnalvaCosta&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BelisnalvaCosta&repo=convoychat" />
 </a>
 
 <p align="center">
@@ -43,3 +43,5 @@ _*Meta de Bootcamp e cursos*_
  <img align="center" src="https://github-readme-starts.vercel.app/api/top-langs/?"
 username=BelisnalvaCosta&show_icons=true&layout=compact&theme=dark" /></a> 
 </p>
+                                                                   
+[coment]: Tudo é possível ao que crê! Tenho esperança que breve chegará a minha vez de brilha"                                                                  
