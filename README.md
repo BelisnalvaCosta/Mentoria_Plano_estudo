@@ -19,6 +19,11 @@ Meta para janeiro
 - [x] Fazer a tarefa 1
 - [ ] Fazer a tarefa 2
 
+Task para continuar aprimoramento dos cursos:
+- [ ] Começar a estudar Java
+- [ ] Assistir os cursos
+- [ ] Faça os desafios de código.
+
 <-- Lista -->
 1. Curso 1
    1. Subitem
