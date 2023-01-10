@@ -18,12 +18,12 @@ _*Meta de Bootcamp e cursos*_
 4. Introdução a Orientada a objeto com Java - [acesse o curso](https://web.dio.me/course/praticando-orientacao-a-objetos-com-java/learning/bd32419b-9081-4426-ad13-e6d380e93443)
 5. Desenvolvimento básico em Java - [acesse o curso](https://web.dio.me/course/desenvolvimento-basico-em-java/learning/38d441ef-3c29-4ca4-9047-178603a8f656)
 
-# Meta para janeiro
+## Meta para janeiro
 - [x] Fazer a tarefa Bootc. 1
 - [x] Fazer a tarefa Bootc. 2
 - [ ] Fazer a tarefa dos cursos 3
 
-# Task para continuar aprimoramento dos cursos:
+### Task para continuar aprimoramento dos cursos:
 - [x] Estudar o Bootcamp de Python e de Java
 - [x] Continuar a estudar Java
 - [x] Assistir os cursos
@@ -31,17 +31,5 @@ _*Meta de Bootcamp e cursos*_
 - [ ] Revisar sempre as matérias
 - [ ] Done! :🚀👩‍💻 (:tada:)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BelisnalvaCosta&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BelisnalvaCosta&repo=convoychat" />
-</a>
-
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-starts">
- <img align="center" src="https://github-readme-starts.vercel.app/api/top-langs/?"
-username=BelisnalvaCosta&show_icons=true&layout=compact&theme=dark" /></a> 
-</p>
-                                                                   
-[coment]: Tudo é possível ao que crê! Tenho esperança que breve chegará a minha vez de brilha"                                                                  
+- [coment]: Este projeto feito aqui no Markdow com a orientação da Expert Juliana Mascarenhas(Dio).                                                                     
+- [coment]: Tudo é possível ao que crê! Tenho esperança que breve chegará a minha vez de brilha!"                                                                  
