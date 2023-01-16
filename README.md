@@ -1,17 +1,16 @@
 # Mentoria_Plano_estudo_Github
 
 Mentoria de plano de estudos do Github[^1].
+
 ## Criando um plano de estudo para Java
 
 Este roadmap é voltado para iniciantes que deseja ingressar na área de programação com Java. Os 
 cursos aqui listados são gratuitos e fazem parte da plataforma DIO.me.
 
-@@ -18,7 +19,7 @@ _*Meta de Bootcamp e cursos*_
-
 >"A vitória vem, para quem sempre luta!!"
 <!-- Minhas palavras -->
 
-### _*Meta de Bootcamp e cursos*_
+## _*Meta de Bootcamp e cursos*_
 
 1. Bootcamp Orange Tech Back-end Java - [acesse o curso](https://web.dio.me/track/orange-tech-backend)
 2. Bootcamp Geração Tech Unimed Python - [👩‍💻 Objetivo: Universidade] - [acesse o curso](https://web.dio.me/track/geracao-tech-unimed-bh-ciencia-de-dados)
@@ -21,14 +20,14 @@ cursos aqui listados são gratuitos e fazem parte da plataforma DIO.me.
 6. Principios de Pensamento Computacional com Python - [acesse o curso](https://web.dio.me/course/principios-de-pensamento-computacional-com-python/learning/b1f54af3-02b7-4d87-8896-6d54f3317b97)
 7. Roadmap de Java [(Básico ao Avançado)]( https://github.com/julianazanelatto/roadmap_java_repo)
 
-### Meta para janeiro
+### _*Meta para janeiro*_
 - [x] Fazer a tarefa Bootc. 1
 
 ### _*Metas a serem concluídas*_ 
 - [ ] Fazer a tarefa dos cursos. 3 
 - [ ] Fazer nova meta e concluir até 2023. 4
 
-### Tarefas para continuar aprimoramento dos cursos:
+### _*Tarefas para continuar aprimoramento dos cursos:*_
 - [x] Estudar o Bootcamp de Python e de Java
 - [ ] Continuar a estudar Java
 - [ ] Assistir os cursos
