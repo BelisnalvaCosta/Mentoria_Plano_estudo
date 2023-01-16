@@ -1,6 +1,7 @@
 # Mentoria_Plano_estudo_Github
 
-Mentoria de plano de estudos do Github
+Mentoria de plano de estudos do Github[^1].
+
 ## Criando um plano de estudo para Java
 
 Este roadmap é voltado para iniciantes que deseja ingressar na área de programação com Java. Os 
@@ -18,7 +19,7 @@ _*Meta de Bootcamp e cursos*_
 4. Introdução a Orientada a objeto com Java - [acesse o curso](https://web.dio.me/course/praticando-orientacao-a-objetos-com-java/learning/bd32419b-9081-4426-ad13-e6d380e93443)
 5. Desenvolvimento básico em Java - [acesse o curso](https://web.dio.me/course/desenvolvimento-basico-em-java/learning/38d441ef-3c29-4ca4-9047-178603a8f656)
 6. Principios de Pensamento Computacional com Python - [acesse o curso](https://web.dio.me/course/principios-de-pensamento-computacional-com-python/learning/b1f54af3-02b7-4d87-8896-6d54f3317b97)
-7. Readmap de Java [(Básico ao Avançado)]( https://github.com/julianazanelatto/roadmap_java_repo)
+7. Roadmap de Java [(Básico ao Avançado)]( https://github.com/julianazanelatto/roadmap_java_repo)
 
 ### Meta para janeiro
 - [x] Fazer a tarefa Bootc. 1
@@ -34,7 +35,7 @@ _*Meta de Bootcamp e cursos*_
 - [ ] Revisar sempre as matérias
 - [ ] Fazer nova meta de estudos até o final de 2023.
 - [ ] Done! :🚀👩‍💻 (:tada:)
-
-
-- [coment]: Este projeto feito aqui no Markdown editor com a orientação da Expert Juliana Mascarenhas(Dio).                                                                     
+                                                             
 >"Tudo é possível ao que crê! Tenho esperança que breve chegará a minha vez de brilhar!"                                                                  
+
+[^1]: Este projeto feito aqui no Markdown editor com a orientação da Expert Juliana Mascarenhas(Dio).
