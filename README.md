@@ -6,10 +6,12 @@ Mentoria de plano de estudos do Github[^1].
 Este roadmap é voltado para iniciantes que deseja ingressar na área de programação com Java. Os 
 cursos aqui listados são gratuitos e fazem parte da plataforma DIO.me.
 
+@@ -18,7 +19,7 @@ _*Meta de Bootcamp e cursos*_
+
 >"A vitória vem, para quem sempre luta!!"
 <!-- Minhas palavras -->
 
-## _*Meta de Bootcamp e cursos*_
+### _*Meta de Bootcamp e cursos*_
 
 1. Bootcamp Orange Tech Back-end Java - [acesse o curso](https://web.dio.me/track/orange-tech-backend)
 2. Bootcamp Geração Tech Unimed Python - [👩‍💻 Objetivo: Universidade] - [acesse o curso](https://web.dio.me/track/geracao-tech-unimed-bh-ciencia-de-dados)
