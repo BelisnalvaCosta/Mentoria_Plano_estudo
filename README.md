@@ -8,7 +8,7 @@ Este roadmap é voltado para iniciantes que deseja ingressar na área de program
 cursos aqui listados são gratuitos e fazem parte da plataforma DIO.me.
 
 >"A vitória vem, para quem sempre luta!!"
-<!-- Minhas palavras -->
+<!-- Minhas palavras --> 
 
 ## _*Meta de Bootcamp e cursos*_
 
