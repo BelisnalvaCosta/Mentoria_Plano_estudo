@@ -24,16 +24,16 @@ cursos aqui listados são gratuitos e fazem parte da plataforma DIO.me.
 - [x] Fazer a tarefa Bootc. 1
 
 ### _*Metas a serem concluídas*_ 
-- [ ] Fazer a tarefa dos cursos. 2 
-- [ ] Fazer nova meta e concluir até 2023. 3
+- [X] Fazer a tarefa dos cursos. 2 
+- [X] Fazer nova meta e concluir até 2023. 3
 
 ### _*Tarefas para continuar aprimoramento dos cursos:*_
 - [x] Estudar o Bootcamp de Python e de Java
-- [ ] Continuar a estudar Java
-- [ ] Assistir os cursos
-- [ ] Fazer os desafios de código e projetos.
-- [ ] Revisar sempre as matérias
-- [ ] Fazer nova meta de estudos até o final de 2023.
+- [X] Continuar a estudar Java
+- [X] Assistir os cursos
+- [X] Fazer os desafios de código e projetos.
+- [X] Revisar sempre as matérias
+- [ ] Fazer nova meta de estudos até o final de 2025.
 - [ ] Done! :🚀👩‍💻 (:tada:)
 
 >"Tudo é possível ao que crê! Tenho esperança que breve chegará a minha vez de brilhar!" 
